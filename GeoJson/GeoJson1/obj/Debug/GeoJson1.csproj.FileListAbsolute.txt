@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\bin\Debug\GeoJson1.dll
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\bin\Debug\GeoJson1.pdb
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\obj\Debug\GeoJson1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\obj\Debug\GeoJson1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\obj\Debug\GeoJson1.csproj.CopyComplete
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\obj\Debug\GeoJson1.dll
+C:\Users\Student\Desktop\0102\GeoJson\GeoJson1\obj\Debug\GeoJson1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoJson", "GeoJson\GeoJson.csproj", "{287BADA6-D553-4EE5-BAC8-12C16B5CE301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoJson1", "GeoJson1\GeoJson1.csproj", "{1E838A8D-9757-40C2-AB1E-108A6DE2ED00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287BADA6-D553-4EE5-BAC8-12C16B5CE301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287BADA6-D553-4EE5-BAC8-12C16B5CE301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287BADA6-D553-4EE5-BAC8-12C16B5CE301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287BADA6-D553-4EE5-BAC8-12C16B5CE301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E838A8D-9757-40C2-AB1E-108A6DE2ED00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E838A8D-9757-40C2-AB1E-108A6DE2ED00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E838A8D-9757-40C2-AB1E-108A6DE2ED00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E838A8D-9757-40C2-AB1E-108A6DE2ED00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38044D45-9A69-4FF1-8BE7-6DDC5BE3921E}
+	EndGlobalSection
+EndGlobal
